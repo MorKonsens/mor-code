@@ -5,3 +5,10 @@ c:\users\mor\source\repos\Robomid\Robomid\obj\Debug\Robomid.csprojResolveAssembl
 c:\users\mor\source\repos\Robomid\Robomid\obj\Debug\Robomid.csproj.CoreCompileInputs.cache
 c:\users\mor\source\repos\Robomid\Robomid\obj\Debug\Robomid.exe
 c:\users\mor\source\repos\Robomid\Robomid\obj\Debug\Robomid.pdb
+C:\Users\Mor\Documents\mor code\Robomid\Robomid\bin\Debug\Robomid.exe.config
+C:\Users\Mor\Documents\mor code\Robomid\Robomid\bin\Debug\Robomid.exe
+C:\Users\Mor\Documents\mor code\Robomid\Robomid\bin\Debug\Robomid.pdb
+C:\Users\Mor\Documents\mor code\Robomid\Robomid\obj\Debug\Robomid.csprojResolveAssemblyReference.cache
+C:\Users\Mor\Documents\mor code\Robomid\Robomid\obj\Debug\Robomid.csproj.CoreCompileInputs.cache
+C:\Users\Mor\Documents\mor code\Robomid\Robomid\obj\Debug\Robomid.exe
+C:\Users\Mor\Documents\mor code\Robomid\Robomid\obj\Debug\Robomid.pdb
