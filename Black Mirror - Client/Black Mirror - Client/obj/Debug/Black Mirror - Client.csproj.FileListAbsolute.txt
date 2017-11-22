@@ -1,0 +1,7 @@
+c:\users\mor\source\repos\Black Mirror - Client\Black Mirror - Client\bin\Debug\Black Mirror - Client.exe.config
+c:\users\mor\source\repos\Black Mirror - Client\Black Mirror - Client\bin\Debug\Black Mirror - Client.exe
+c:\users\mor\source\repos\Black Mirror - Client\Black Mirror - Client\bin\Debug\Black Mirror - Client.pdb
+c:\users\mor\source\repos\Black Mirror - Client\Black Mirror - Client\obj\Debug\Black Mirror - Client.csprojResolveAssemblyReference.cache
+c:\users\mor\source\repos\Black Mirror - Client\Black Mirror - Client\obj\Debug\Black Mirror - Client.csproj.CoreCompileInputs.cache
+c:\users\mor\source\repos\Black Mirror - Client\Black Mirror - Client\obj\Debug\Black Mirror - Client.exe
+c:\users\mor\source\repos\Black Mirror - Client\Black Mirror - Client\obj\Debug\Black Mirror - Client.pdb

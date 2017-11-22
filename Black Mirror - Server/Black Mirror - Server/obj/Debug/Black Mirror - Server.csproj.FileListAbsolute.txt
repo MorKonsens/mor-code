@@ -1,0 +1,7 @@
+c:\users\mor\source\repos\Black Mirror - Server\Black Mirror - Server\bin\Debug\Black Mirror - Server.exe.config
+c:\users\mor\source\repos\Black Mirror - Server\Black Mirror - Server\bin\Debug\Black Mirror - Server.exe
+c:\users\mor\source\repos\Black Mirror - Server\Black Mirror - Server\bin\Debug\Black Mirror - Server.pdb
+c:\users\mor\source\repos\Black Mirror - Server\Black Mirror - Server\obj\Debug\Black Mirror - Server.csprojResolveAssemblyReference.cache
+c:\users\mor\source\repos\Black Mirror - Server\Black Mirror - Server\obj\Debug\Black Mirror - Server.csproj.CoreCompileInputs.cache
+c:\users\mor\source\repos\Black Mirror - Server\Black Mirror - Server\obj\Debug\Black Mirror - Server.exe
+c:\users\mor\source\repos\Black Mirror - Server\Black Mirror - Server\obj\Debug\Black Mirror - Server.pdb

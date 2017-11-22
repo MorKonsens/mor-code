@@ -1,0 +1,7 @@
+c:\users\mor\source\repos\Robomid\Robomid\bin\Debug\Robomid.exe.config
+c:\users\mor\source\repos\Robomid\Robomid\bin\Debug\Robomid.exe
+c:\users\mor\source\repos\Robomid\Robomid\bin\Debug\Robomid.pdb
+c:\users\mor\source\repos\Robomid\Robomid\obj\Debug\Robomid.csprojResolveAssemblyReference.cache
+c:\users\mor\source\repos\Robomid\Robomid\obj\Debug\Robomid.csproj.CoreCompileInputs.cache
+c:\users\mor\source\repos\Robomid\Robomid\obj\Debug\Robomid.exe
+c:\users\mor\source\repos\Robomid\Robomid\obj\Debug\Robomid.pdb
